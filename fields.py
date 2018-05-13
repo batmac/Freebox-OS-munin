@@ -123,7 +123,7 @@ fields = {
 }
 
 xdsl_errors_fields_descriptions = {
-    field_fec: 'FEC (Forward Error Connection)',
+    field_fec: 'FEC (Forward Error Correction)',
     field_crc: 'CRC (Cyclic Redundancy Check)',
     field_hec: 'HEC (Header Error Control)',
     field_es: 'ES (Errored Seconds)',
